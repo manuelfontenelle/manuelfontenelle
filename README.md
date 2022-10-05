@@ -48,6 +48,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact&theme=dark"/>
 
+# :briefcase: Work
 
 ### Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag:
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
