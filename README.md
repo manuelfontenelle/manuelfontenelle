@@ -58,9 +58,13 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 
-# :desktop_computer: Workspace Setup
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# :desktop_computer: :computer: Workspace Setup
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Windows-DELL_XPS_15-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact&theme=dark"/>
@@ -89,8 +93,8 @@
 </a>
 
 # :link: Hobbies
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
-<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 
 
