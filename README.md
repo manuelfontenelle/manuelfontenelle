@@ -13,6 +13,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
 ## :zap: Skills
 
 ### Languages
@@ -77,8 +79,8 @@
 <img src="https://img.shields.io/badge/Windows-DELL_XPS_15-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=dark"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact&theme=dark"/>
+
+
 
 
 
@@ -126,7 +128,8 @@
 
 
 <!--
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact&theme=dark"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=dark"/>
 ![Visitor Count](https://profile-counter.glitch.me/manuelfontenelle/count.svg)
 # Hi there 👋
 
