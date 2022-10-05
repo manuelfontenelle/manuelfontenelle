@@ -18,6 +18,13 @@
 ### Deliveroo Clone (ReactJs) :hamburger: :pizza: :sushi: :poultry_leg:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=deliveroo-frontend)](https://github.com/manuelfontenelle/deliveroo-frontend)
 
+### Marvel Library (ReactJs) :superhero: :robot:
+<a href="https://github.com/manuelfontenelle/marvel-front-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=marvel-front-end" />
+</a>
+<a href="https://github.com/manuelfontenelle/marvel-back-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=marvel-back-end" />
+</a>
 
 <!--
 
