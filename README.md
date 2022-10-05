@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=dark)](https://github.com/manuelfontenelle)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&langs_count=5)](https://github.com/manuelfontenelle)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&langs_count=5&theme=dark)](https://github.com/manuelfontenelle)
 
 
 ### Vinted Clone (ReactJs) :dress: :jeans: :tshirt: :handbag:
