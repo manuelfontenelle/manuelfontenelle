@@ -1,4 +1,6 @@
 # :rocket: About Me
+Nombre de visiteurs :
+
 ![Visitor Count](https://profile-counter.glitch.me/manuelfontenelle/count.svg)
 
 # :hammer_and_wrench: Skills
@@ -103,7 +105,8 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  <img src="https://camo.githubusercontent.com/1703529ec72a87cde0bb2cd12c4c6ecf9d939483be1faba6a31629e1e4d6e51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465" />
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="mailto:manuel.fontenelle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
  <img src="https://camo.githubusercontent.com/ab72ae5db00243ec4f11facf797aa36886b029012a99146e3ab955cde788b878/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3533343066663f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465" />
 
