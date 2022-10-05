@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&langs_count=5)](https://github.com/manuelfontenelle)
 
 
-### Vinted Clone :dress: :jeans: :tshirt: :handbag:
+### Vinted Clone (ReactJs) :dress: :jeans: :tshirt: :handbag:
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf" />
 </a>
@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
 </a>
  
-### Deliveroo Clone :hamburger: :pizza: :sushi: :poultry_leg:
+### Deliveroo Clone (ReactJs) :hamburger: :pizza: :sushi: :poultry_leg:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf)](https://github.com/manuelfontenelle/deliveroo-frontend)
 
 
