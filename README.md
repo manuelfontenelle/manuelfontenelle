@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<manuelfontenelle" />
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<manuelfontenelle&color=55acb7&style=for-the-badge&logo=Github" />
 
 ## :rocket: About Me
 
