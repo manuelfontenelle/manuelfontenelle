@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&langs_count=5)](https://github.com/manuelfontenelle)
 
 
-### Vinted Clone :dress:
+### Vinted Clone :dress: :jeans: :tshirt: :handbag:
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf" />
 </a>
