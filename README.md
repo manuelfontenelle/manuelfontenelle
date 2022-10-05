@@ -1,9 +1,9 @@
-# :rocket: About Me
+## :rocket: About Me
 Nombre de visiteurs :
 
 ![Visitor Count](https://profile-counter.glitch.me/manuelfontenelle/count.svg)
 
-# :hammer_and_wrench: Skills
+## :hammer_and_wrench: Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,7 +59,7 @@ Nombre de visiteurs :
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 
-# :desktop_computer: :computer: Workspace Setup
+## :desktop_computer: :computer: Workspace Setup
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
@@ -72,7 +72,7 @@ Nombre de visiteurs :
 
 
 
-# :briefcase: Work
+## :briefcase: Work
 
 ### Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag:
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
@@ -93,7 +93,7 @@ Nombre de visiteurs :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=marvel-back-end" />
 </a>
 
-# :desert_island: Hobbies
+## :desert_island: Hobbies
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
@@ -101,7 +101,7 @@ Nombre de visiteurs :
 
 
 
-# :link: Links
+## :link: Links
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  <img src="https://camo.githubusercontent.com/1703529ec72a87cde0bb2cd12c4c6ecf9d939483be1faba6a31629e1e4d6e51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465" />
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
