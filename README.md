@@ -6,6 +6,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/manuelfontenelle/vinted-frontend-manuelf))
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/manuelfontenelle/vinted-backend-manuelf))
+
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=tokyonight)](https://github.com/manuelfontenelle)
 
