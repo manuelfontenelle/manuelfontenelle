@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
 </a>
  
-### Deliveroo Clone :hamburger:
+### Deliveroo Clone :hamburger: :pizza: :sushi: :poultry_leg:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf)](https://github.com/manuelfontenelle/deliveroo-frontend)
 
 
