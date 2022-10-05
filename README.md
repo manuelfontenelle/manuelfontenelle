@@ -1,9 +1,10 @@
+
+## Hi there 👋
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<manuelfontenelle" />
+
 ## :rocket: About Me
-Nombre de visiteurs :
 
-![Visitor Count](https://profile-counter.glitch.me/manuelfontenelle/count.svg)
-
-## :hammer_and_wrench: Skills
+## :zap: Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -117,6 +118,7 @@ Nombre de visiteurs :
 
 <!--
 
+![Visitor Count](https://profile-counter.glitch.me/manuelfontenelle/count.svg)
 # Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=dark)](https://github.com/manuelfontenelle)
