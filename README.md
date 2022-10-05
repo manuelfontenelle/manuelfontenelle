@@ -16,7 +16,7 @@
 </a>
  
 ### Deliveroo Clone (ReactJs) :hamburger: :pizza: :sushi: :poultry_leg:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf)](https://github.com/manuelfontenelle/deliveroo-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=deliveroo-frontend)](https://github.com/manuelfontenelle/deliveroo-frontend)
 
 
 <!--
