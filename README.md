@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # :rocket: About Me
 
@@ -92,7 +92,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=marvel-back-end" />
 </a>
 
-# :link: Hobbies
+# :desert_island: Hobbies
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
