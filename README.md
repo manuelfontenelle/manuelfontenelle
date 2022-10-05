@@ -15,6 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
 </a>
  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf)](https://github.com/manuelfontenelle/deliveroo-frontend))](https://github.com/manuelfontenelle/vinted-backend-manuelf)
 
 
 <!--
