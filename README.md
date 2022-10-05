@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
 </a>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf)](https://github.com/manuelfontenelle/deliveroo-frontend))](https://github.com/manuelfontenelle/vinted-backend-manuelf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf)](https://github.com/manuelfontenelle/deliveroo-frontend)
 
 
 <!--
@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&langs_count=5)](https://github.com/manuelfontenelle)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
