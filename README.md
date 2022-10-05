@@ -9,7 +9,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&langs_count=5" />
 </a>
 
-<div>
+<div width="100%">
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf" />
 </a>
