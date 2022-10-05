@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/manuelfontenelle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=chartreuse-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/manuelfontenelle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact" />
 </a>
 
 
