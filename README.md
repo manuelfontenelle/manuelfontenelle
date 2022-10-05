@@ -1,4 +1,5 @@
 # :rocket: About Me
+![Visitor Count](https://profile-counter.glitch.me/manuelfontenelle/count.svg)
 
 # :hammer_and_wrench: Skills
 
