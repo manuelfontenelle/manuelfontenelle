@@ -9,13 +9,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&langs_count=5" />
 </a>
 
-
+<div>
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf" />
 </a>
 <a href="https://github.com/manuelfontenelle/vinted-backend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
 </a>
+  </div>
 
 
 <!--
