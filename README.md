@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=chartreuse-dark)](https://github.com/manuelfontenelle)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact)](https://github.com/manuelfontenelle)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&repo=vinted-frontend-manuelf)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/manuelfontenelle/vinted-frontend-manuelf))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=vinted-frontend-manuelf)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/manuelfontenelle/vinted-frontend-manuelf))
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=tokyonight)](https://github.com/manuelfontenelle)
