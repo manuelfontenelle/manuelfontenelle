@@ -1,5 +1,5 @@
- ![visitors](https://visitor-badge.deta.dev/badge?page_id=manuelfontenelle&left_color=black&right_color=blue)
- 
+![](https://komarev.com/ghpvc/?username=your-github-manuelfontenelle&style=for-the-badge)
+
 # 👋 Hi, I'm Manuel! 👋
 
 ## :rocket: About Me
