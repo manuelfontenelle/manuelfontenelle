@@ -90,9 +90,7 @@
  Live Preview
 </a>
 
-<a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf" />
-</a>
+
 <a href="https://github.com/manuelfontenelle/vinted-backend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
 </a>
