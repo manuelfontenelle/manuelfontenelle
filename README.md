@@ -88,7 +88,7 @@
 
 ### Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag: 
 :white_check_mark: 
-<a href="https://vinted-frontend-manuelf.netlify.app/">
+<a href="https://vinted-frontend-manuelf.netlify.app/" target="_blank">
  Live Preview
 </a>
 
@@ -104,7 +104,7 @@
  
 ### Deliveroo Clone (ReactJs) :hamburger: :pizza: :sushi: :poultry_leg:
 :white_check_mark: 
-<a href="https://deliveroo-frontend-manuelf.netlify.app/">
+<a href="https://deliveroo-frontend-manuelf.netlify.app/" target="_blank">
  Live Preview
 </a>
 
@@ -112,7 +112,7 @@
 
 ### Marvel Library (ReactJs + NodeJS) :superhero: :robot:
 :white_check_mark: 
-<a href="https://marvel-manuelf.netlify.app/">
+<a href="https://marvel-manuelf.netlify.app/" target="_blank">
  Live Preview
 </a>
 
