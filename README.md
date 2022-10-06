@@ -87,21 +87,35 @@
 ## :briefcase: Work
 
 ### Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag: 
+:white_check_mark: 
+<a href="https://vinted-frontend-manuelf.netlify.app/">
+ Live Preview
+</a>
+
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf" />
 </a>
 <a href="https://github.com/manuelfontenelle/vinted-backend-manuelf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
 </a>
-:white_check_mark: 
-<a href="test">
- Live Preview
-</a>
+
+
+
  
 ### Deliveroo Clone (ReactJs) :hamburger: :pizza: :sushi: :poultry_leg:
+:white_check_mark: 
+<a href="https://deliveroo-frontend-manuelf.netlify.app/">
+ Live Preview
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=deliveroo-frontend)](https://github.com/manuelfontenelle/deliveroo-frontend)
 
 ### Marvel Library (ReactJs + NodeJS) :superhero: :robot:
+:white_check_mark: 
+<a href="https://marvel-manuelf.netlify.app/">
+ Live Preview
+</a>
+
 <a href="https://github.com/manuelfontenelle/marvel-front-end">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=marvel-front-end" />
 </a>
