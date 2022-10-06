@@ -1,4 +1,4 @@
- ![visitors](https://visitor-badge.deta.dev/badge?page_id=manuelfontenelle&left_color=#0d3867&right_color=#275992)
+ ![visitors](https://visitor-badge.deta.dev/badge?page_id=manuelfontenelle&left_color=black&right_color=blue)
  
 # 👋 Hi, I'm Manuel! 👋
 
