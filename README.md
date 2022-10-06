@@ -1,6 +1,6 @@
-
+ ![visitors](https://visitor-badge.deta.dev/badge?page_id=manuelfontenelle&left_color=#0d3867&right_color=#275992)
+ 
 # 👋 Hi, I'm Manuel! 👋
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<manuelfontenelle&color=275992&lcolor=0d3867&style=for-the-badge&logo=Github&text=views" />
 
 ## :rocket: About Me
 
@@ -144,6 +144,7 @@
 
 
 <!--
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<manuelfontenelle&color=275992&lcolor=0d3867&style=for-the-badge&logo=Github&text=views" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfontenelle&layout=compact&theme=dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manuelfontenelle&show_icons=true&theme=dark"/>
 ![Visitor Count](https://profile-counter.glitch.me/manuelfontenelle/count.svg)
