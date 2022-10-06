@@ -91,10 +91,10 @@
 </a>
 
 <a href="https://github.com/manuelfontenelle/vinted-frontend-manuelf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-frontend-manuelf" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=light&repo=vinted-frontend-manuelf" />
 </a>
 <a href="https://github.com/manuelfontenelle/vinted-backend-manuelf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=vinted-backend-manuelf" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=light&repo=vinted-backend-manuelf" />
 </a>
 
 
@@ -106,7 +106,7 @@
  Live Preview
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=deliveroo-frontend)](https://github.com/manuelfontenelle/deliveroo-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=light&repo=deliveroo-frontend)](https://github.com/manuelfontenelle/deliveroo-frontend)
 
 ### Marvel Library (ReactJs + NodeJS) :superhero: :robot:
 :white_check_mark: 
@@ -115,10 +115,10 @@
 </a>
 
 <a href="https://github.com/manuelfontenelle/marvel-front-end">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=marvel-front-end" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=light&repo=marvel-front-end" />
 </a>
 <a href="https://github.com/manuelfontenelle/marvel-back-end">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=marvel-back-end" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=light&repo=marvel-back-end" />
 </a>
 
 ## :desert_island: Hobbies
