@@ -82,8 +82,6 @@
 
 
 
-
-
 ## :briefcase: Work
 
 ### Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag: 
