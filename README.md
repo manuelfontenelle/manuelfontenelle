@@ -126,6 +126,16 @@ Do not hesitate to contact me.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=marvel-back-end" />
 </a>
 
+
+### Portfolio Marc Fontenelle (Html/Css/Javascript/NodeJs) :art:
+:white_check_mark: 
+<a href="https://www.marc-fontenelle.com/" target="_blank">
+ Live Preview
+</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=marc-fontenelle.com)](https://github.com/manuelfontenelle/marc-fontenelle.com)
+
+
 ## :desert_island: Hobbies
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
