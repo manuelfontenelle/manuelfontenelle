@@ -127,7 +127,7 @@ Do not hesitate to contact me.
 </a>
 
 
-### Portfolio Marc Fontenelle (Html/Css/Javascript/NodeJs) :art:
+### Portfolio Marc Fontenelle (Html/Css/Javascript + NodeJs) :art:
 :white_check_mark: 
 <a href="https://www.marc-fontenelle.com/" target="_blank">
  Live Preview
