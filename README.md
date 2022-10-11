@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Manuel! 👋
 
-## :rocket: About Me
+## About Me
 
 Full stack ReactJs/NodeJs developer, I have been passionate about IT and Design since a very young age.
 I have a preference for the front-end and in particular for the Html, Css, Javascript languages ​​as well as ReactJS that I can combine with my skills in Graphics / Webdesign.
