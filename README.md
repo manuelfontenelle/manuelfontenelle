@@ -126,11 +126,11 @@ Do not hesitate to contact me.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=marc-fontenelle.com)](https://github.com/manuelfontenelle/marc-fontenelle.com)
 
-### Cigale Construction (NextJs + Tailwind Css + Scss) :construction_worker: ( :construction: Work in progress )
+### Cigale Construction (NextJs + Tailwind Css + Scss) :construction_worker: 
 :white_check_mark: 
 <a href="https://cigale-construction.netlify.app/" target="_blank">
  Live Preview
-</a>
+</a> ( :construction: Pre-prod / Work in progress :construction: )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=cigale-construction)](https://github.com/manuelfontenelle/cigale-construction)
 
@@ -139,7 +139,7 @@ Do not hesitate to contact me.
 :white_check_mark: 
 <a href="https://domaine-aventurier.netlify.app/" target="_blank">
  Live Preview
-</a> ( :construction: Work in progress )
+</a> ( :construction: Pre-prod / Work in progress :construction: )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=domaine-aventurier)](https://github.com/manuelfontenelle/domaine-aventurier)
 
