@@ -135,11 +135,11 @@ Do not hesitate to contact me.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=cigale-construction)](https://github.com/manuelfontenelle/cigale-construction)
 
 
-### Domaine Aventurier (NextJs + Tailwind Css + Scss) :bear: :fish: :evergreen_tree: ( :construction: Work in progress )
+### Domaine Aventurier (NextJs + Tailwind Css + Scss) :bear: :fish: :evergreen_tree: 
 :white_check_mark: 
 <a href="https://domaine-aventurier.netlify.app/" target="_blank">
  Live Preview
-</a>
+</a> ( :construction: Work in progress )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=domaine-aventurier)](https://github.com/manuelfontenelle/domaine-aventurier)
 
