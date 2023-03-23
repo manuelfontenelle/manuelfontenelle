@@ -139,7 +139,7 @@ Do not hesitate to contact me.
 
 ### Domaine Aventurier (NextJs + Tailwind Css + Scss) :bear: :fish: :evergreen_tree: :bike: :tent:
 :white_check_mark: 
-<a href="https://domaine-aventurier.netlify.app/" target="_blank">
+<a href="https://domaine-aventurier-i18n.vercel.app/" target="_blank">
  Live Preview
 </a> ( :construction: Pre-prod / Work in progress :construction: )
 
