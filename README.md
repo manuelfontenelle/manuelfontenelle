@@ -141,7 +141,7 @@ Do not hesitate to contact me.
 :white_check_mark: 
 <a href="https://domaine-aventurier-i18n.vercel.app/" target="_blank">
  Live Preview
-</a> ( :construction: Pre-prod / Work in progress :construction: )
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=domaine-aventurier)](https://github.com/manuelfontenelle/domaine-aventurier)
 
