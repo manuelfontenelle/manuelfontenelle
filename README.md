@@ -142,7 +142,6 @@ Do not hesitate to contact me.
 <a href="https://domaine-aventurier-i18n.vercel.app/" target="_blank">
  Live Preview
 </a>
-<div class="repo-card" data-repo="manuelfontenelle/cigale-construction" data-theme="dark-theme"></div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=domaine-aventurier-i18n)](https://github.com/manuelfontenelle/domaine-aventurier-i18n)
 
