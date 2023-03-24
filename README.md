@@ -134,6 +134,7 @@ Do not hesitate to contact me.
  Live Preview
 </a> ( :construction: Pre-prod / Work in progress :construction: )
 
+<div class="repo-card" data-repo="manuelfontenelle/cigale-construction" data-theme="dark-theme"></div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=cigale-construction)](https://github.com/manuelfontenelle/cigale-construction)
 
 
