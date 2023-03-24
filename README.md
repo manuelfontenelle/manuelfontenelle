@@ -1,6 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=your-github-manuelfontenelle&style=for-the-badge)
-<!-- head -->
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
 
 # 👋 Hi, I'm Manuel! 👋
 
