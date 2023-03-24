@@ -134,7 +134,7 @@ Do not hesitate to contact me.
  Live Preview
 </a> ( :construction: Pre-prod / Work in progress :construction: )
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=cigale-construction)](https://github.com/manuelfontenelle/cigale-construction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=cigale-construction)](https://github.com/manuelfontenelle/cigale-construction)
 
 
 ### Domaine Aventurier (NextJs + Tailwind Css + Scss) :bear: :fish: :evergreen_tree: :bike: :tent:
