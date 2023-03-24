@@ -82,7 +82,7 @@ Do not hesitate to contact me.
 
 ## :briefcase: Works/Projects
 
-### Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag: 
+### :rocket: Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag: 
 :white_check_mark: 
 <a href="https://vinted-frontend-manuelf.netlify.app/" target="_blank">
  Live Preview
