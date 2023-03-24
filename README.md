@@ -143,7 +143,7 @@ Do not hesitate to contact me.
  Live Preview
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=domaine-aventurier)](https://github.com/manuelfontenelle/domaine-aventurier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=chartreuse-dark&repo=domaine-aventurier-i18n)](https://github.com/manuelfontenelle/domaine-aventurier-i18n)
 
 
 
