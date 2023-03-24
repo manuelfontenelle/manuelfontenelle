@@ -80,7 +80,7 @@ Do not hesitate to contact me.
 
 
 
-## :briefcase: Works
+## :briefcase: Works/Projects
 
 ### Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag: 
 :white_check_mark: 
