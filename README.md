@@ -83,6 +83,7 @@ Do not hesitate to contact me.
 
 ### :rocket: Vinted Clone (ReactJs + NodeJS + MongoDb) :dress: :jeans: :tshirt: :handbag: 
 ![vinted](https://user-images.githubusercontent.com/14051418/235795332-f2f013ce-c5bd-4844-b1a7-dfd8f0ef01c8.png)
+
 :white_check_mark: 
 <a href="https://vinted-frontend-manuelf.netlify.app/" target="_blank">
  Live Preview
