@@ -126,9 +126,9 @@ Do not hesitate to contact me.
 ![cigale](https://user-images.githubusercontent.com/14051418/235795793-e7dbc59e-9fd7-420c-9f0f-ab8ae27a2bfd.png)
 
 :white_check_mark: 
-<a href="https://cigale-construction.netlify.app/" target="_blank">
+<a href="https://cigaleconstruction.ca" target="_blank">
  Live Preview
-</a> ( :construction: Pre-prod / Work in progress :construction: )
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuelfontenelle&theme=dark&repo=cigale-construction)](https://github.com/manuelfontenelle/cigale-construction)
 
