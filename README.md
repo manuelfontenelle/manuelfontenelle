@@ -146,6 +146,8 @@ Do not hesitate to contact me.
 
 
 ### :rocket: Deliveroo Clone (ReactJs) :hamburger: :pizza: :sushi: :poultry_leg:
+![deliveroo](https://user-images.githubusercontent.com/14051418/236540813-60f2ab38-a19d-47c2-a5e5-ed30f3ef532a.png)
+
 :white_check_mark: 
 <a href="https://deliveroo-frontend-manuelf.netlify.app/" target="_blank">
  Live Preview
