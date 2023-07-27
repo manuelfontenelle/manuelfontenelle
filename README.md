@@ -4,10 +4,20 @@
 
 ## About Me
 
-Full stack ReactJs/NodeJs developer, I have been passionate about IT and Design since a very young age.
-I have a preference for the front-end and in particular for the Html, Css, Javascript languages ​​as well as ReactJS that I can combine with my skills in Graphics / Webdesign.
-I like to create innovative, minimalist and modern websites, intuitive web applications, but also clean and documented code!
-Do not hesitate to contact me.
+Full stack ReactJs/NodeJs creative web developer from Paris.
+
+Passionate and experienced web developer with more than 8 years of experience in the development of websites and web applications, I specialized in ReactJs/NodeJs and NextJs.
+
+As a full stack web developer, I have a preference for the Front-end and in particular for the Html, Css, Javascript languages as well as ReactJs that I can combine with my artistic skills for everything related to animation, interaction and experience on the website.
+
+I like to create innovative, responsive, minimalist and modern websites. Intuitive web applications, but also a clean code, documented and respecting web standards. I am also attached to SEO, "page speed" score and accessibility.
+
+During my career, I have worked with many clients in agency or as a freelancer, and have acquired solid technical skills that allow me today to assess the feasibility of a project and to provide you with the best possible support on your web projects.
+
+Being a graduate of a Multimedia Graphic Designer and also Multimedia Web Developer Licenses, I have both artistic and technical sensitivity. I can manage the design of a complete graphical interface (UI/UX).
+I am driven to help my clients achieve their goals and realize their vision by providing quality work.
+
+Do not hesitate to contact me, I will be delighted to discuss with you.
 
 📫 manuel.fontenelle@gmail.com
 
