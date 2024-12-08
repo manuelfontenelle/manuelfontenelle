@@ -127,7 +127,7 @@ Do not hesitate to contact me, I will be delighted to discuss with you.
 ![mf](https://user-images.githubusercontent.com/14051418/235795776-0a12d0d6-210a-432b-a09b-b949f268cf70.png)
 
 :white_check_mark: 
-<a href="https://www.marc-fontenelle.com/" target="_blank">
+<a href="https://www.marcfontenelle.com/" target="_blank">
  Live Preview
 </a>
 
